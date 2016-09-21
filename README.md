@@ -23,6 +23,7 @@
 
 * Site: http://fiberfy.io/
 * Source: https://github.com/agustim/fiberfy-server
+* Demo: http://demo.fiberfy.io
 
 
 ## Maquinari
