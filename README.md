@@ -1,4 +1,4 @@
-# Guifi
+# Guifi.net
 
 ## Què és ?
 
